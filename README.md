@@ -132,7 +132,7 @@ Developing PBoD involved deep exploration across **AI design, governance modelin
 
 ## 🧩 Future Enhancements
 
-- Integration with **Streamlit or NiceGUI** for a web-based dashboard.  
+- Integration with **NiceGUI** for a web-based dashboard.  
 - Persona clustering (e.g., “Innovators”, “Ethicists”, “Strategists”) for themed consultations.  
 - Weighted consensus scoring between personas.  
 - Real-time keyword and sentiment extraction for board discussions.  
