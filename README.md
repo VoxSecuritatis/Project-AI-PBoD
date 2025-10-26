@@ -1,5 +1,5 @@
 # 🧠 Personal Board of Directors (PBoD)
-Published:  2025-10-19
+Published:  2025-10-19 | Updated:  2025-10-25
 
 **Video demo** (click the View raw link to download the video, 181 MB MP4):  [Personal Board of Directors Demo Video](https://github.com/VoxSecuritatis/Project-AI-PBoD/blob/main/PBoD.mp4)
 
@@ -19,13 +19,13 @@ Each persona represents a unique worldview, reasoning style, and domain of exper
 
 ## 🎯 Purpose
 
-Originally developed as a **portfolio project** for the Post Graduate Program in **Artificial Intelligence and Machine Learning (PGP-AIML)** at **The University of Texas at Austin**, PBoD now stands as a demonstration of:
+Originally developed as a **portfolio project** for my professional portfolio, PBoD now stands as a demonstration of:
 
 - **Applied LLM reasoning** using structured, context-aware prompts.  
 - **System design for explainable AI collaboration.**  
 - **Human-AI augmentation in leadership, governance, and education.**
 
-Beyond its academic foundation, PBoD offers potential **enterprise applications** in IT governance, change management, vendor risk assessment, and GRC (Governance, Risk & Compliance).
+Beyond its foundation, PBoD offers potential **enterprise applications** in IT governance, change management, vendor risk assessment, and GRC (Governance, Risk & Compliance).
 
 ---
 
